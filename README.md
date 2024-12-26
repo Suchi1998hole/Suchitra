@@ -28,8 +28,8 @@ Welcome to my GitHub profile!
 Feel free to reach out if you'd like to collaborate on a project, have any questions, or just want to connect!
 
 - **Email**: suchitrahole1998@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile URL]
-- **Personal Website/Portfolio**: [Your Website URL]
+- **LinkedIn**: linkedin.com/in/suchitra-hole
+  
 
 ### 🌟 Fun Fact
 I’m also interested in sailing, and I enjoy watching premier league matches on a weekend.
